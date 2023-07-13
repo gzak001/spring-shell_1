@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringShellApplication {
-	// Hello Hello 777777777777777777777777777777
+	// Hello WORlD 8
 	public static void main(String[] args) {
 		SpringApplication.run(SpringShellApplication.class, args);
 	}
